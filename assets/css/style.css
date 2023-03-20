@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    padding-left: 50px;
+}
+figure{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+.overview{
+    padding-left: 50px;
+}
