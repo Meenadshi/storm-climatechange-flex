@@ -4,6 +4,7 @@ body{
 }
 header{
     padding-left: 50px;
+    font-size: 175%;
 }
 figure{
     display: flex;
@@ -15,4 +16,8 @@ figure{
 }
 .overview{
     padding-left: 50px;
+    font-size: 125%;
+}
+.subhead{
+    padding-right: 250px;
 }
